@@ -1,0 +1,15 @@
+.body{
+
+}
+
+
+.formulario{   
+border: 2px solid black;
+width: 10vw;
+height: 40vh;
+border-radius: 10px;
+
+}
+label{
+    color: rgb(226, 76, 76);
+}
