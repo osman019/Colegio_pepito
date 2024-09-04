@@ -1,15 +1,23 @@
-.body{
-
+body{
+background-color: #E0D5AD;
 }
 
 
 .formulario{   
-border: 2px solid black;
+border: 2px solid  #5B584F;
 width: 10vw;
 height: 40vh;
 border-radius: 10px;
-
+background-color: #92A78C;
 }
 label{
-    color: rgb(226, 76, 76);
+    
+}
+h1{color: #5B584F;}
+
+#boton{
+    width: 5vw;
+    background-color: #E0D5AD;
+    border: 1px solid;
+    border-color: #F7CD82;
 }
